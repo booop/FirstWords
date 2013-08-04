@@ -18,6 +18,7 @@
 		49518F9E17AF137F004B777F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 49518F9D17AF137F004B777F /* Default-568h@2x.png */; };
 		49518FA117AF137F004B777F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49518F9F17AF137F004B777F /* MainStoryboard.storyboard */; };
 		49518FA417AF137F004B777F /* fwViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49518FA317AF137F004B777F /* fwViewController.m */; };
+		49518FAB17AF1830004B777F /* SettingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49518FAA17AF1830004B777F /* SettingView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		49518FA017AF137F004B777F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		49518FA217AF137F004B777F /* fwViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fwViewController.h; sourceTree = "<group>"; };
 		49518FA317AF137F004B777F /* fwViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = fwViewController.m; sourceTree = "<group>"; };
+		49518FAA17AF1830004B777F /* SettingView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				49518FA217AF137F004B777F /* fwViewController.h */,
 				49518FA317AF137F004B777F /* fwViewController.m */,
 				49518F8E17AF137F004B777F /* Supporting Files */,
+				49518FAA17AF1830004B777F /* SettingView.xib */,
 			);
 			path = FirstWords;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				49518F9C17AF137F004B777F /* Default@2x.png in Resources */,
 				49518F9E17AF137F004B777F /* Default-568h@2x.png in Resources */,
 				49518FA117AF137F004B777F /* MainStoryboard.storyboard in Resources */,
+				49518FAB17AF1830004B777F /* SettingView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
